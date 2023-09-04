@@ -72,7 +72,7 @@ const Footer = () => {
         <Typography variant="body2" component="p" align="center">
           &copy; 2023 My Company. All rights reserved.
         </Typography>
-        <Typography variant="body2" component="p" align="center">
+        {/* <Typography variant="body2" component="p" align="center">
           Made with love by Me.
         </Typography>
         <Typography variant="body2" component="p" align="center">
@@ -84,7 +84,7 @@ const Footer = () => {
           <Link href="https://www.flaticon.com/" color="inherit" underline="always">
             www.flaticon.com
           </Link>
-        </Typography>
+        </Typography> */}
       </Grid>
     </Grid>
   );
